@@ -1,1 +1,1 @@
-# Verificador_de_resultado
+# Verificador de resultado
